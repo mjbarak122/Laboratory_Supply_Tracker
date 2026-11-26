@@ -38,4 +38,5 @@ Testing
 -Handling missing files.
 
 Team contributors 
-Majd Barakat I did everything 
+Majd Barakat: Main coding and report layout 
+Mohamad Ketat: Details and editing 
